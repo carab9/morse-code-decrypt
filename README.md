@@ -14,4 +14,4 @@ Decryption algorithm for Morse Code encryption using C++ smart pointer, bitset (
 ## Results
 The decrypted text printed in stdout.
 
-![image](https://github.com/carab9/morse-code-decrypt/blob/main/morse_decrypted.png?raw=true)
+![image](https://github.com/carab9/morse-code-decrypt/blob/main/morse_code_decrypted.png?raw=true)
