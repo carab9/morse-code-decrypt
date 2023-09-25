@@ -1,5 +1,5 @@
 # morse-code-decrypt
-This project is a Morse Code decryption program.  It reads in a encrypted binary file, Morse.bin, encrypted by Morse Code bit patterns, and stores it in a database, and then decrypts it to the original text and print the decrypted text to stdout.
+This project is a Morse Code decryption program.  It reads in a encrypted binary file, Morse.bin, encrypted by Morse Code bit patterns, stores it in a database, and then decrypts it to the original text and print the decrypted text to stdout.
 
 ![image](https://github.com/carab9/morse-code-decrypt/blob/main/morse_code1.png?raw=true)
 
