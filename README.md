@@ -7,6 +7,8 @@ This project is a Morse Code decryption program.  It reads in a encrypted binary
 
 ![image](https://github.com/carab9/morse-code-decrypt/blob/main/morse_code2.png?raw=true)
 
+![image](https://github.com/carab9/morse-code-decrypt/blob/main/morse_code4.png?raw=true)
+
 ## Requirements
 C++ and C++ libraries: iostream, string, fstream, vector, tuple, algorithm, iterator, bitset, sstream, smart pointer.
 
