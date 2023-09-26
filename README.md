@@ -13,7 +13,7 @@ This project is a Morse Code decryption program.  It reads in a encrypted binary
 C++ and C++ libraries: iostream, string, fstream, vector, tuple, algorithm, iterator, bitset, sstream, smart pointer.
 
 ## Technical Skills
-Decryption algorithm for Morse Code encryption using C++ smart pointers, bitset (for bit level data operation), sstream, iterator, and also C++ STL containers, such as vector, and tuple.
+Decryption algorithm for Morse Code encryption using C++ smart pointers, bitset (for bit level data operation), sstream, iterator, and also C++ STL containers, such as vector, and tuple, and STL algorithm.
 
 ## Results
 The decrypted text printed in stdout.
