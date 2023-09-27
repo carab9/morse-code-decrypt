@@ -1,5 +1,5 @@
 # morse-code-decrypt
-This project is a Morse Code decryption program.  It reads in a encrypted binary file, Morse.bin, encrypted by Morse Code bit patterns, stores it in a database, and then decrypts it to the original text and prints the decrypted text to stdout.
+This project is a Morse Code decryption program.  It reads a encrypted binary file, Morse.bin, encrypted by Morse Code bit patterns, stores it in a database, and then decrypts it to the original text and prints the decrypted text to stdout.
 
 ![image](https://github.com/carab9/morse-code-decrypt/blob/main/morse_code1.png?raw=true)
 
@@ -10,7 +10,7 @@ This project is a Morse Code decryption program.  It reads in a encrypted binary
 ![image](https://github.com/carab9/morse-code-decrypt/blob/main/morse_code4.png?raw=true)
 
 ## Architecture
-The main program uses a FileIO class object to read in the encrypted binary file and store the data in a DataBase class object. Then it uses a Decrypt class object to decrypt the encrypted binary data and print the decrypted text to stdout.
+The main program uses a FileIO class object to read a encrypted binary file and store the data in a DataBase class object. After that, it uses a Decrypt class object to decrypt the encrypted binary data and print the decrypted text to stdout.
 
 ## Requirements
 C++ and C++ libraries: iostream, string, fstream, vector, tuple, algorithm, iterator, bitset, sstream, smart pointer.
